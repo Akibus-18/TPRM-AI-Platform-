@@ -267,7 +267,6 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ### Production Build
 
@@ -360,3 +359,4 @@ The platform is live and accessible via static hosting (Vercel/Netlify) with zer
 ---
 
 *Built with Next.js 14, Tailwind CSS, and TypeScript | Deployed on Vercel*
+#Sofiu Akibu Olawale
