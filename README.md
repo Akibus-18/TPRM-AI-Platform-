@@ -267,6 +267,9 @@ npm install
 npm run dev
 ```
 
+Explore the AI TPRM PLATFORM HERE:
+
+https://tprm-ai-project.vercel.app/
 
 ### Production Build
 
@@ -277,6 +280,7 @@ npm run build
 # Output is in the 'out/' directory
 # Deploy to Vercel, Netlify, or any static hosting
 ```
+
 
 ---
 
